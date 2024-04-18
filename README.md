@@ -4,17 +4,14 @@ This repository contains implementations of various data structures and algorith
 
 ## **Contents:**
 
-### **Binary Search Tree (BST):**
+### **Sorting Algorithms:**
+Various sorting algorithms including bubble sort, selection sort, insertion sort, merge sort, quick sort, and heap sort for sorting arrays.
 
-Implementation of a binary search tree data structure with operations like insertion, deletion, and traversal.
 ### **Linked List:**
 Implementation of singly linked list, doubly linked list, and circular linked list along with common operations like insertion, deletion, and traversal.
 
 ### **Priority Queue:**
 Implementation of a priority queue data structure using heaps with functionalities like insertion, deletion, and heap operations.
-
-### **Sorting Algorithms:**
-Various sorting algorithms including bubble sort, selection sort, insertion sort, merge sort, quick sort, and heap sort for sorting arrays.
 
 ### **Stack and Queue:**
 Implementation of stack and queue data structures with basic operations like push, pop, enqueue, and dequeue.
@@ -23,7 +20,11 @@ Implementation of stack and queue data structures with basic operations like pus
 Recursive implementation of the Tower of Hanoi problem with explanation and demonstration.
 
 ### **Tree:**
-Implementation of different tree data structures such as binary tree, binary search tree, AVL tree, and red-black tree along with common operations.
-Each directory contains a C++ file with detailed comments explaining the code logic, time complexities, and usage examples.
+Implementation of different tree data structures such as binary tree, binary search tree.
 
+### **Binary Search Tree (BST):**
+Implementation of a binary search tree data structure with operations like insertion, deletion, and traversal.
+
+
+Each directory contains a C++ file with detailed comments explaining the code logic, time complexities, and usage examples.
 Feel free to explore, contribute, or use the implementations for educational purposes.
